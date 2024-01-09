@@ -6,9 +6,9 @@
   
   ## Contact Me:-
   
-- portifolio: https://matthewkuria.netlify.app
-- email:mathewkwachira@gmail.com
-- twitter(X): https://twitter.com/matthew_kuria
+- Portifolio: https://matthewkuria.netlify.app
+- Email: mathewkwachira@gmail.com
+- Twitter(X): https://twitter.com/matthew_kuria
 - LinkedIn: https://linkedin.com/matthew-kuria
   
   ## Theme:-
