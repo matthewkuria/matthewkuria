@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning Advanced React , TypeScript and web package bundlers.
 - 👯 I’m looking to collaborate on and contribute to Open Source projects.
 - 
-  ##Contact Me:-
-- 📫 How to reach me:
+  ## Contact Me:-
   
-  ##Theme
+- portifolio: https://matthewkuria.netlify.app
+- email:mathewkwachira@gmail.com
+  
+  ## Theme
 - ⚡ If it is not worth launching ,it is not worth building!
 
