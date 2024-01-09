@@ -10,6 +10,12 @@
 - [Email]( mathewkwachira@gmail.com)
 - [Twitter(X)](https://twitter.com/matthew_kuria)
 - [LinkedIn](https://linkedin.com/matthew-kuria)
+
+  ## My Tech Stack
+  - React
+  - Tailwind CSS
+  - HTML
+    
   
   ## Theme:-
  > If it is not worth launching ,it is not worth building!
