@@ -12,5 +12,5 @@
 - LinkedIn: https://linkedin.com/matthew-kuria
   
   ## Theme:-
-- ⚡ If it is not worth launching ,it is not worth building!
+- ⚡ > If it is not worth launching ,it is not worth building!
 
