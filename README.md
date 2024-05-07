@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on React, TypeScript and Tailwind CSS projects for the Front End Web development.
+- 🔭 I’m currently working on React/NextJs, TypeScript and Tailwind CSS projects for the Front End Web development.
 - 🌱 I’m currently learning Advanced React , TypeScript and web package bundlers.
 - 👯 I’m looking to collaborate on and contribute to Open Source projects.
   
