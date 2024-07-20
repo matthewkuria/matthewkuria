@@ -6,7 +6,7 @@
   
   ## Contact Me:-
   
-- [Portifolio](https://matthewkuria.netlify.app)
+- [Portifolio](https://matthewkuria.vercel.app)
 - [Email]( mathewkwachira@gmail.com)
 - [Twitter(X)](https://twitter.com/matthew_kuria)
 - [LinkedIn](https://linkedin.com/matthew-kuria)
