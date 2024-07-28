@@ -9,7 +9,7 @@
 - [Portifolio](https://matthewkuria.vercel.app)
 - [Email]( mathewkwachira@gmail.com)
 - [Twitter(X)](https://twitter.com/matthew_kuria)
-- [LinkedIn](https://linkedin.com/matthew-kuria)
+- [LinkedIn](https://www.linkedin.com/in/matthew-kuria/)
 
   ## My Tech Stack and Tools
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
