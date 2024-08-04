@@ -8,7 +8,7 @@
   
 - [Portifolio](https://matthewkuria.vercel.app)
 - [Email]( mathewkwachira@gmail.com)
-- [Twitter(X)](https://twitter.com/matthew_kuria)
+- [Twitter(X)](https://x.com/matthew_kuria)
 - [LinkedIn](https://www.linkedin.com/in/matthew-kuria/)
 
   ## My Tech Stack and Tools
