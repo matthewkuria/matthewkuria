@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I am  a Software Engineer,currently working on React/NextJs, TypeScript and Tailwind CSS projects for the Front End Web development and Django framework for backend development.
-- 🌱 I’m currently learning Python Django Framework.
+- 🌱 I’m currently building using Python Django Framework.
 - 👯 I’m looking to collaborate on and contribute to Open Source projects.
   
   ## Contact Me:-
