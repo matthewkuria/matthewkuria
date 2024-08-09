@@ -3,7 +3,7 @@
 - 🔭 I am  a Software Engineer,currently working on React/NextJs, TypeScript and Tailwind CSS projects for the Front End Web development and Django framework for backend development.
 - 🌱 I’m currently building using Python Django Framework.
   
-  ## Contact Me:-
+  ## Contact Me via:-
   
 - [Portifolio](https://matthewkuria.vercel.app)
 - [Email]( mathewkwachira@gmail.com)
