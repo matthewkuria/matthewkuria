@@ -23,5 +23,5 @@
     
   
   ## Theme:-
- > Coding and solving the world problems via codes.
+ > Coding and solving the world problems.
 
