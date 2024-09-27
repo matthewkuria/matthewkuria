@@ -6,7 +6,6 @@
   ## Contact Me via:-
   
 - [Portifolio](https://matthewkuria.vercel.app)
-- [Twitter(X)](https://x.com/matthew_kuria)
 - [LinkedIn](https://www.linkedin.com/in/matthew-kuria/)
 
   ## My Tech Stack and Tools
