@@ -1,5 +1,4 @@
 ## Hi there 
-
 - 🔭 I am  a Software Developer with a vast experience in  React/NextJs, TypeScript and Tailwind CSS projects for the Front End Web development and Django framework for backend development.
 - 🌱 I have built awesome projects in NextJS, Django, Django REST framework, Typescript and Tailwind CSS.
   
